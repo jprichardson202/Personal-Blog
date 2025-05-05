@@ -20,6 +20,7 @@ The first model of the Teddy Ruxpin used 3 motors, one for the eyes, nose, and m
 
 The original motors used a series of gears to move the individual parts of the face. I removed them and carefully attached the servo with hot glue to hold it into position. I repeated this for each of the three motors. After sliding the servos back in, I tested it using a breadboard and the Arduino. It worked nearly perfectly. 
 
+<img src="https://github.com/user-attachments/assets/1a432d2c-a04f-461a-84f5-5a177751b841" alt="code" width="300"/>
 
 <img src="https://github.com/user-attachments/assets/d7cb056d-52d9-419c-843b-d8f6b0cc6d7b" alt="code" width="300"/>
 
@@ -42,6 +43,7 @@ To completely remove the project from breadboards, I carefully soldered together
 <img src="https://github.com/user-attachments/assets/7729c25f-fb88-4d92-baa9-829b8382a0a8" alt="finaltouches" width="300"/>
 
 For the Arduino to recieve audio input, I soldered wire to a male 3.5mm Aux connector and plugged it into an analog pin and ground. Then, the signal pins from the servos were plugged into the digital pins of the Arduino, powered by the 5 Volt pin, and 3.3 Volt pin was used for the amplifer. At first, I was nervous that the Arduino would not be able to power the amplifer and servos together, but testing proved it worked perfectly. I connected the Rasbperry PI and the Arduino to two 5V battery packs, and the project was a success.
+
 
 IMPROVEMENTS AND NOTES:
 Project VOID was a fun dive into robotics. I learned how to convert analog signals into digital outputs, and built my first amplifer circuit. Learning how OpenAI's API's work was a valuable experience that I will definitely use for future projects as well.
