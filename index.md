@@ -1,6 +1,6 @@
 ---
-title: Personal Projects - Jason Richardson
+title: Personal Projects
 date: 05/04/2025
 ---
 
-Hello, here are all the projects I have worked on as I progress through my Electrical Engineering Degree.
+This website showcases projects I have worked on throughout the pursuit of my Electrical Engineering Degree.
