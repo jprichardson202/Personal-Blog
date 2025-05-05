@@ -1,5 +1,5 @@
 ---
-title: "Project VOID"
-date: 2025-05-04
+title: "Project VOID - Animatronic Using OpenAI's Real-Time API"
+date: 2025-04-25
 ---
-Showcasing the robot I built.
+
